@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @akourpro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammad Akour ( @akourpro )
+- 👀 I'm a website programmer..
+- 🌱 I'm interested in learning and development
+- 💞️ I look forward to cooperating with leading companies and programmers to achieve the best programming work
+- 📫 How to reach me =====> https://akour.me
 
-<!---
-akourpro/akourpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
